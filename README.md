@@ -5,5 +5,4 @@ Some Examples of Future Modules:
 * Scheduling
 * Loyalty and Rewards
 * Marketing
-* Surveying
-
+* Event Management
